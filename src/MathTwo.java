@@ -11,10 +11,9 @@ public class MathTwo {
 		
 		//ChangeProgram
 		
-		int x,y,z;
-		
+		double x,y,z;
 		x = 5;
-		y = 9;
+		y = 9.5;
 		
 		z = x * y;
 		
