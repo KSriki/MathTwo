@@ -9,6 +9,17 @@ public class MathTwo {
 		System.out.println("My number is: "+mynumber);
 		System.out.println("My other number is: "+myothernumber);
 		
+		//ChangeProgram
+		
+		int x,y,z;
+		
+		x = 5;
+		y = 9;
+		
+		z = x * y;
+		
+		System.out.println("The product is " + z);
+		
 		
 	}
 
